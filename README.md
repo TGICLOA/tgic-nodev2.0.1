@@ -43,8 +43,8 @@ sudo npm install grunt-cli -g
 克隆Tgic-node库
 
 ```
-git clone https://github.com/xianfeic/tgic-nodev2.git
-cd tgic-nodev2
+git clone https://github.com/xianfeic/tgic-nodev2.0.1
+cd tgic-nodev2.0.1
 ```
   
 然后创建数据库 
