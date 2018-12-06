@@ -1,5 +1,7 @@
 # tgic-nodev2.0.1
 
+![图片: ](./img/1.png)
+
 这TGIC网络2.0是节点部署文件
 推荐  2cpu 4ram 40g硬盘 1M带宽  linux ubuntu 16.04 64bit
 
