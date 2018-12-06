@@ -117,4 +117,9 @@ npm install
 node app.js --genesis genesisBlock.Tgic.json --config config.Tgic.json
 ```
 LINUX断开shh链接后节点就自动关闭了运行了
-我们需要使用screen 来执行最后一步的操作
+我们需要使用screen 来执行最后一步的操作，因为这样可以让你关掉SHH连接后，节点程序依旧在运行中。
+
+最后，别忘了组建自己的节点群，招募更多的朋友或TGI持有者给您投票
+
+![图片: ](./img/3.png)
+
